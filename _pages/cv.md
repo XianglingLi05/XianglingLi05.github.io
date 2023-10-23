@@ -11,21 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Biomedical Engineering, Sun Yat-sen University, 2022
+* Advisor: Prof. Xi Xie
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022 - Summer 2023: PostDoc
+  * University of Southern California
+  * Supervisor: Professor Hangbo Zhao
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023 - Present: PostDoc
+  * Dartmouth College
+  * Supervisor: Professor Wei Ouyang
   
 Skills
 ======
